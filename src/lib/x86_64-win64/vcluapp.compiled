@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="F:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1331391477"/>
+  <Params Value=" -MDelphi -Scghi -O1 -Xs -WG -l -vewnhibq -FiF:\lazarus\components\synedit -FiC:\QUIK\VTB_DEMO\lua\qvcl\src\lib\x86_64-win64 -FuF:\lazarus\lcl\units\x86_64-win64 -FuF:\lazarus\fpc\2.6.2\units\x86_64-win64 -FuF:\lazarus\lcl\units\x86_64-win64\win32 -FuF:\lazarus\components\lazutils\lib\x86_64-win64 -FuF:\lazarus\components\rtticontrols\lib\x86_64-win64\win64 -FuF:\lazarus\components\lazcontrols\lib\x86_64-win64\win64 -FuF:\lazarus\components\ideintf\units\x86_64-win64\win64 -FuF:\lazarus\components\synedit\units\x86_64-win64\win64 -FuF:\lazarus\components\synedit -FuF:\lazarus\components\rtticontrols -FuF:\lazarus\components\ideintf -FuF:\lazarus\components\lazcontrols -FuC:\QUIK\VTB_DEMO\lua\qvcl\src\src -FuC:\QUIK\VTB_DEMO\lua\qvcl\src\genericsrc -FuF:\lazarus\packager\units\x86_64-win64 -FuC:\QUIK\VTB_DEMO\lua\qvcl\src\ -FUC:\QUIK\VTB_DEMO\lua\qvcl\src\lib\x86_64-win64\ -FEC:\QUIK\VTB_DEMO\lua\qvcl\src\bin\ -oC:\QUIK\VTB_DEMO\lua\qvcl\src\bin\demo.exe -dLCL -dLCLwin32 vcluapp.lpr"/>
+</CONFIG>

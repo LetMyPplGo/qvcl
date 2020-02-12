@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <grid version="3">
+    <saveoptions create="True" content="True" position="False"/>
+    <design rowcount="2" fixedcols="0" fixedrows="1" columncount="6" defaultcolwidth="64" defaultRowHeight="20">
+      <options>
+        <goFixedVertLine value="True"/>
+        <goFixedHorzLine value="True"/>
+        <goVertLine value="True"/>
+        <goHorzLine value="True"/>
+        <goRangeSelect value="False"/>
+        <goDrawFocusSelected value="False"/>
+        <goRowSizing value="False"/>
+        <goColSizing value="False"/>
+        <goRowMoving value="False"/>
+        <goColMoving value="False"/>
+        <goEditing value="False"/>
+        <goTabs value="False"/>
+        <goRowSelect value="True"/>
+        <goAlwaysShowEditor value="False"/>
+        <goThumbTracking value="False"/>
+        <goColSpanning value="False"/>
+        <goRelaxedRowSelect value="False"/>
+        <goDblClickAutoSize value="False"/>
+        <goSmoothScroll value="False"/>
+      </options>
+    </design>
+    <content>
+      <cells cellcount="6">
+        <cell1 row="1" text="1" column="0"/>
+        <cell2 row="1" text="LuaRunnerPlugin" column="1"/>
+        <cell3 row="1" text="Main" column="2"/>
+        <cell4 row="1" text="1.2" column="3"/>
+        <cell5 row="1" text="plugins\lua-runner.v1.2\lua-runner.lua" column="4"/>
+        <cell6 row="1" text="0.1.5" column="5"/>
+      </cells>
+    </content>
+  </grid>
+</CONFIG>
